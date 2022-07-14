@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="error.rule34.noImage">I couldn't find an Image to send here.</entry>
+    <entry key="guid.member.join">{0} has joined the server.</entry>
+</properties>
